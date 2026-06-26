@@ -53,7 +53,7 @@ src/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/job-portal-ui.git
+git clone https://github.com/gawaliabhijeet-cell/job_Portal_UI.git
 ```
 
 ### Go to the project folder
